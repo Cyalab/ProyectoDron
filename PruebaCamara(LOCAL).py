@@ -1,3 +1,6 @@
+#En este caso, la función de este código es mostrar en un Frame donde se vea la cámara.
+#Al detectar 1 persona aparece en la consola "Persona detectada"
+
 import torch
 import time
 import cv2
