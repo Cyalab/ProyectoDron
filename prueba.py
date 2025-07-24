@@ -1,3 +1,8 @@
+#La funcion de este codigo es mandar <STATUS_TEXT> a Mission Planner por puertos UDP 
+#Esto en parte es una simulación en base a lo que observa la cámara y lo analiza establecemos una acción que mande  Mission Planner
+#en concreto para que en este caso, si se detecta una persona el código le avisa a Mission Planner que hay una persona detectada <STATUS_TEXT>
+
+
 import torch
 import time
 import cv2
