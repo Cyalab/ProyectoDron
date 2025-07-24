@@ -2,7 +2,7 @@
 Este proyecto consiste en el desarrollo de un sistema aéreo no tripulado (UAV) completamente autónomo, basado en una controladora **Pixhawk 2.4.8**, una computadora **Jetson Nano con cámara Raspberry Pi HQ**, y comunicación por radio con módulos **3DR Sik** para realizar misiones de búsqueda, reconocimiento y transmisión de datos en entornos afectados por desastres naturales.
 
 -----
-## <a name="arquitectura-general"></a>Arquitectura General
+## <a name="arquitectura-general"></a>Arquitectura General (SOLO UBUNTU COMO SISTEMA EN JESTON)
 - **Controladora de Vuelo:** Pixhawk 2.4.8
 - **GPS:** Módulo M8N
 - **Batería:** 4200 mAh 3S
